@@ -32,7 +32,7 @@ public class stackss {
     }
 
     public static void main(String[] args) {
-        String str = "({})[]";  //true
+        String str = "({})[]}";  //true
         System.out.println(isValid(str));
     }
 }
