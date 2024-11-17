@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/hariom-pareta/MyCodes/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/hariom-pareta/MyCodes/tree/master/0274-h-index) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/hariom-pareta/MyCodes/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/hariom-pareta/MyCodes/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
