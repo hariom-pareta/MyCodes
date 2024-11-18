@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hariom-pareta/MyCodes/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/hariom-pareta/MyCodes/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hariom-pareta/MyCodes/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hariom-pareta/MyCodes/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/hariom-pareta/MyCodes/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
