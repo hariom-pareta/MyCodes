@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/hariom-pareta/MyCodes/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/hariom-pareta/MyCodes/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/hariom-pareta/MyCodes/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
 | ------- |
