@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hariom-pareta/MyCodes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hariom-pareta/MyCodes/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/hariom-pareta/MyCodes/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/hariom-pareta/MyCodes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/hariom-pareta/MyCodes/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/hariom-pareta/MyCodes/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hariom-pareta/MyCodes/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
@@ -125,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hariom-pareta/MyCodes/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/hariom-pareta/MyCodes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
