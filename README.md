@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariom-pareta/MyCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/hariom-pareta/MyCodes/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hariom-pareta/MyCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/hariom-pareta/MyCodes/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hariom-pareta/MyCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/hariom-pareta/MyCodes/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
@@ -114,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariom-pareta/MyCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hariom-pareta/MyCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/hariom-pareta/MyCodes/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
