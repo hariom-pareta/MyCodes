@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hariom-pareta/MyCodes/tree/master/0011-container-with-most-water) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/hariom-pareta/MyCodes/tree/master/0134-gas-station) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hariom-pareta/MyCodes/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariom-pareta/MyCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hariom-pareta/MyCodes/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/hariom-pareta/MyCodes/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/hariom-pareta/MyCodes/tree/master/0135-candy) |
