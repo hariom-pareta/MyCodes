@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hariom-pareta/MyCodes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hariom-pareta/MyCodes/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/hariom-pareta/MyCodes/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/hariom-pareta/MyCodes/tree/master/0134-gas-station) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
@@ -123,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hariom-pareta/MyCodes/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
