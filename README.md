@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hariom-pareta/MyCodes/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/hariom-pareta/MyCodes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/hariom-pareta/MyCodes/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/hariom-pareta/MyCodes/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/hariom-pareta/MyCodes/tree/master/0073-set-matrix-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hariom-pareta/MyCodes/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/hariom-pareta/MyCodes/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/hariom-pareta/MyCodes/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/hariom-pareta/MyCodes/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hariom-pareta/MyCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/hariom-pareta/MyCodes/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/hariom-pareta/MyCodes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hariom-pareta/MyCodes/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/hariom-pareta/MyCodes/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/hariom-pareta/MyCodes/tree/master/0205-isomorphic-strings) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/hariom-pareta/MyCodes/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hariom-pareta/MyCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/hariom-pareta/MyCodes/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/hariom-pareta/MyCodes/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/0151-reverse-words-in-a-string) |
