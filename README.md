@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/hariom-pareta/MyCodes/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariom-pareta/MyCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hariom-pareta/MyCodes/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/hariom-pareta/MyCodes/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/hariom-pareta/MyCodes/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/hariom-pareta/MyCodes/tree/master/0289-game-of-life) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/hariom-pareta/MyCodes/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/hariom-pareta/MyCodes/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hariom-pareta/MyCodes/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/hariom-pareta/MyCodes/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/hariom-pareta/MyCodes/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariom-pareta/MyCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hariom-pareta/MyCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/hariom-pareta/MyCodes/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
 | ------- |
