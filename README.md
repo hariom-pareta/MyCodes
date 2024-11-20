@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/hariom-pareta/MyCodes/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/hariom-pareta/MyCodes/tree/master/0383-ransom-note) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/hariom-pareta/MyCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Design
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hariom-pareta/MyCodes/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/hariom-pareta/MyCodes/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/hariom-pareta/MyCodes/tree/master/0383-ransom-note) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/hariom-pareta/MyCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Trie
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hariom-pareta/MyCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/hariom-pareta/MyCodes/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0219-contains-duplicate-ii) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/hariom-pareta/MyCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Matrix
 |  |
 | ------- |
