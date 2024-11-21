@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/hariom-pareta/MyCodes/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/hariom-pareta/MyCodes/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/hariom-pareta/MyCodes/tree/master/0289-game-of-life) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hariom-pareta/MyCodes/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/hariom-pareta/MyCodes/tree/master/0289-game-of-life) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Union Find
 |  |
 | ------- |
