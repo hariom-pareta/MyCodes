@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/hariom-pareta/MyCodes/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/hariom-pareta/MyCodes/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hariom-pareta/MyCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/hariom-pareta/MyCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/hariom-pareta/MyCodes/tree/master/0134-gas-station) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hariom-pareta/MyCodes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hariom-pareta/MyCodes/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/hariom-pareta/MyCodes/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hariom-pareta/MyCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/hariom-pareta/MyCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/hariom-pareta/MyCodes/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hariom-pareta/MyCodes/tree/master/0141-linked-list-cycle) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hariom-pareta/MyCodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hariom-pareta/MyCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hariom-pareta/MyCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -298,5 +302,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hariom-pareta/MyCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
