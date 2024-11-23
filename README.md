@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hariom-pareta/MyCodes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hariom-pareta/MyCodes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/hariom-pareta/MyCodes/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hariom-pareta/MyCodes/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariom-pareta/MyCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hariom-pareta/MyCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hariom-pareta/MyCodes/tree/master/0202-happy-number) |
+| [1972-rotating-the-box](https://github.com/hariom-pareta/MyCodes/tree/master/1972-rotating-the-box) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/hariom-pareta/MyCodes/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/hariom-pareta/MyCodes/tree/master/0289-game-of-life) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hariom-pareta/MyCodes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/hariom-pareta/MyCodes/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Union Find
 |  |
