@@ -389,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/hariom-pareta/MyCodes/tree/master/0222-count-complete-tree-nodes) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/hariom-pareta/MyCodes/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
