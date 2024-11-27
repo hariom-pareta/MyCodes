@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/hariom-pareta/MyCodes/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/hariom-pareta/MyCodes/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/hariom-pareta/MyCodes/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariom-pareta/MyCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hariom-pareta/MyCodes/tree/master/0189-rotate-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hariom-pareta/MyCodes/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/hariom-pareta/MyCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hariom-pareta/MyCodes/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/hariom-pareta/MyCodes/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/hariom-pareta/MyCodes/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/hariom-pareta/MyCodes/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hariom-pareta/MyCodes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hariom-pareta/MyCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariom-pareta/MyCodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/hariom-pareta/MyCodes/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/hariom-pareta/MyCodes/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hariom-pareta/MyCodes/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/hariom-pareta/MyCodes/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/hariom-pareta/MyCodes/tree/master/0148-sort-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -494,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/hariom-pareta/MyCodes/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/hariom-pareta/MyCodes/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0212-word-search-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/hariom-pareta/MyCodes/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
