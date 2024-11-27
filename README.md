@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/hariom-pareta/MyCodes/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hariom-pareta/MyCodes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0772-construct-quad-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/hariom-pareta/MyCodes/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/hariom-pareta/MyCodes/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hariom-pareta/MyCodes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hariom-pareta/MyCodes/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/hariom-pareta/MyCodes/tree/master/0289-game-of-life) |
+| [0772-construct-quad-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/hariom-pareta/MyCodes/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/hariom-pareta/MyCodes/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hariom-pareta/MyCodes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariom-pareta/MyCodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/hariom-pareta/MyCodes/tree/master/0148-sort-list) |
+| [0772-construct-quad-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0772-construct-quad-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hariom-pareta/MyCodes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0772-construct-quad-tree) |
 ## Depth-First Search
 |  |
 | ------- |
