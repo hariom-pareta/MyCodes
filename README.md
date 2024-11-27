@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hariom-pareta/MyCodes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hariom-pareta/MyCodes/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/hariom-pareta/MyCodes/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/hariom-pareta/MyCodes/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/hariom-pareta/MyCodes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/hariom-pareta/MyCodes/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0054-spiral-matrix) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hariom-pareta/MyCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/hariom-pareta/MyCodes/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/hariom-pareta/MyCodes/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
