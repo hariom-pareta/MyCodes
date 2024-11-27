@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/hariom-pareta/MyCodes/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/hariom-pareta/MyCodes/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/hariom-pareta/MyCodes/tree/master/0433-minimum-genetic-mutation) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hariom-pareta/MyCodes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hariom-pareta/MyCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/hariom-pareta/MyCodes/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/hariom-pareta/MyCodes/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/hariom-pareta/MyCodes/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/hariom-pareta/MyCodes/tree/master/0433-minimum-genetic-mutation) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hariom-pareta/MyCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hariom-pareta/MyCodes/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/hariom-pareta/MyCodes/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/hariom-pareta/MyCodes/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hariom-pareta/MyCodes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/hariom-pareta/MyCodes/tree/master/0787-sliding-puzzle) |
