@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/hariom-pareta/MyCodes/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/hariom-pareta/MyCodes/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hariom-pareta/MyCodes/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hariom-pareta/MyCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hariom-pareta/MyCodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hariom-pareta/MyCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hariom-pareta/MyCodes/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariom-pareta/MyCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/hariom-pareta/MyCodes/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hariom-pareta/MyCodes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hariom-pareta/MyCodes/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hariom-pareta/MyCodes/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hariom-pareta/MyCodes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hariom-pareta/MyCodes/tree/master/0200-number-of-islands) |
