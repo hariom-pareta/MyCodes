@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/hariom-pareta/MyCodes/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/hariom-pareta/MyCodes/tree/master/0945-snakes-and-ladders) |
+| [0954-maximum-sum-circular-subarray](https://github.com/hariom-pareta/MyCodes/tree/master/0954-maximum-sum-circular-subarray) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hariom-pareta/MyCodes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/hariom-pareta/MyCodes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/hariom-pareta/MyCodes/tree/master/2089-maximum-matrix-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hariom-pareta/MyCodes/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariom-pareta/MyCodes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/hariom-pareta/MyCodes/tree/master/0954-maximum-sum-circular-subarray) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/hariom-pareta/MyCodes/tree/master/0148-sort-list) |
 | [0772-construct-quad-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0772-construct-quad-tree) |
+| [0954-maximum-sum-circular-subarray](https://github.com/hariom-pareta/MyCodes/tree/master/0954-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -522,4 +525,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hariom-pareta/MyCodes/tree/master/0023-merge-k-sorted-lists) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/hariom-pareta/MyCodes/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/hariom-pareta/MyCodes/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
