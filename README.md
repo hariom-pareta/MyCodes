@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/hariom-pareta/MyCodes/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hariom-pareta/MyCodes/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/hariom-pareta/MyCodes/tree/master/2201-valid-arrangement-of-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/hariom-pareta/MyCodes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/hariom-pareta/MyCodes/tree/master/0399-evaluate-division) |
+| [2201-valid-arrangement-of-pairs](https://github.com/hariom-pareta/MyCodes/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/hariom-pareta/MyCodes/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hariom-pareta/MyCodes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -547,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/hariom-pareta/MyCodes/tree/master/0954-maximum-sum-circular-subarray) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/hariom-pareta/MyCodes/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
