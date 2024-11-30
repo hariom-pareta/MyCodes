@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hariom-pareta/MyCodes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hariom-pareta/MyCodes/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hariom-pareta/MyCodes/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/hariom-pareta/MyCodes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hariom-pareta/MyCodes/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hariom-pareta/MyCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/hariom-pareta/MyCodes/tree/master/0172-factorial-trailing-zeroes) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/hariom-pareta/MyCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/hariom-pareta/MyCodes/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/hariom-pareta/MyCodes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/hariom-pareta/MyCodes/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/hariom-pareta/MyCodes/tree/master/0076-minimum-window-substring) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hariom-pareta/MyCodes/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/hariom-pareta/MyCodes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/hariom-pareta/MyCodes/tree/master/0289-game-of-life) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hariom-pareta/MyCodes/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/hariom-pareta/MyCodes/tree/master/0222-count-complete-tree-nodes) |
 ## Graph
 |  |
