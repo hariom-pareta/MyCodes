@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/hariom-pareta/MyCodes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/hariom-pareta/MyCodes/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hariom-pareta/MyCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hariom-pareta/MyCodes/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/hariom-pareta/MyCodes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/hariom-pareta/MyCodes/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hariom-pareta/MyCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Union Find
 |  |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/hariom-pareta/MyCodes/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/hariom-pareta/MyCodes/tree/master/0945-snakes-and-ladders) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hariom-pareta/MyCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hariom-pareta/MyCodes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/hariom-pareta/MyCodes/tree/master/0399-evaluate-division) |
 | [2201-valid-arrangement-of-pairs](https://github.com/hariom-pareta/MyCodes/tree/master/2201-valid-arrangement-of-pairs) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hariom-pareta/MyCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/hariom-pareta/MyCodes/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/hariom-pareta/MyCodes/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/hariom-pareta/MyCodes/tree/master/0399-evaluate-division) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hariom-pareta/MyCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Topological Sort
 |  |
@@ -570,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/hariom-pareta/MyCodes/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hariom-pareta/MyCodes/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/hariom-pareta/MyCodes/tree/master/0502-ipo) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hariom-pareta/MyCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Queue
 |  |
