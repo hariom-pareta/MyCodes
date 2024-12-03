@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariom-pareta/MyCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/hariom-pareta/MyCodes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/hariom-pareta/MyCodes/tree/master/2089-maximum-matrix-sum) |
+| [2232-adding-spaces-to-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hariom-pareta/MyCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariom-pareta/MyCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hariom-pareta/MyCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/hariom-pareta/MyCodes/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2232-adding-spaces-to-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/hariom-pareta/MyCodes/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/hariom-pareta/MyCodes/tree/master/0433-minimum-genetic-mutation) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hariom-pareta/MyCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hariom-pareta/MyCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hariom-pareta/MyCodes/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/hariom-pareta/MyCodes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/hariom-pareta/MyCodes/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/hariom-pareta/MyCodes/tree/master/0289-game-of-life) |
+| [2232-adding-spaces-to-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Binary Search
 |  |
