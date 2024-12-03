@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/hariom-pareta/MyCodes/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariom-pareta/MyCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hariom-pareta/MyCodes/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/hariom-pareta/MyCodes/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hariom-pareta/MyCodes/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hariom-pareta/MyCodes/tree/master/0215-kth-largest-element-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/hariom-pareta/MyCodes/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariom-pareta/MyCodes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/hariom-pareta/MyCodes/tree/master/0198-house-robber) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hariom-pareta/MyCodes/tree/master/0954-maximum-sum-circular-subarray) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
