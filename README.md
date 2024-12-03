@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/hariom-pareta/MyCodes/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/hariom-pareta/MyCodes/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/hariom-pareta/MyCodes/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/hariom-pareta/MyCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hariom-pareta/MyCodes/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hariom-pareta/MyCodes/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/hariom-pareta/MyCodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/hariom-pareta/MyCodes/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/hariom-pareta/MyCodes/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/hariom-pareta/MyCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hariom-pareta/MyCodes/tree/master/0322-coin-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hariom-pareta/MyCodes/tree/master/0954-maximum-sum-circular-subarray) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/hariom-pareta/MyCodes/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariom-pareta/MyCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/hariom-pareta/MyCodes/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/hariom-pareta/MyCodes/tree/master/0300-longest-increasing-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariom-pareta/MyCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
