@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hariom-pareta/MyCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/hariom-pareta/MyCodes/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hariom-pareta/MyCodes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hariom-pareta/MyCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hariom-pareta/MyCodes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hariom-pareta/MyCodes/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
