@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hariom-pareta/MyCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/hariom-pareta/MyCodes/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/hariom-pareta/MyCodes/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hariom-pareta/MyCodes/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/hariom-pareta/MyCodes/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/hariom-pareta/MyCodes/tree/master/0383-ransom-note) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/hariom-pareta/MyCodes/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hariom-pareta/MyCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/hariom-pareta/MyCodes/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hariom-pareta/MyCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hariom-pareta/MyCodes/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/hariom-pareta/MyCodes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/hariom-pareta/MyCodes/tree/master/0212-word-search-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/hariom-pareta/MyCodes/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/hariom-pareta/MyCodes/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hariom-pareta/MyCodes/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
