@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/hariom-pareta/MyCodes/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hariom-pareta/MyCodes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/hariom-pareta/MyCodes/tree/master/0502-ipo) |
+| [0729-my-calendar-i](https://github.com/hariom-pareta/MyCodes/tree/master/0729-my-calendar-i) |
 | [0772-construct-quad-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/hariom-pareta/MyCodes/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/hariom-pareta/MyCodes/tree/master/0945-snakes-and-ladders) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/hariom-pareta/MyCodes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/hariom-pareta/MyCodes/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hariom-pareta/MyCodes/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/hariom-pareta/MyCodes/tree/master/0729-my-calendar-i) |
 ## Randomized
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hariom-pareta/MyCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/hariom-pareta/MyCodes/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/hariom-pareta/MyCodes/tree/master/0300-longest-increasing-subsequence) |
+| [0729-my-calendar-i](https://github.com/hariom-pareta/MyCodes/tree/master/0729-my-calendar-i) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariom-pareta/MyCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
@@ -656,4 +659,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/hariom-pareta/MyCodes/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/hariom-pareta/MyCodes/tree/master/0139-word-break) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/hariom-pareta/MyCodes/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/hariom-pareta/MyCodes/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
