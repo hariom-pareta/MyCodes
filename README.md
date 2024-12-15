@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hariom-pareta/MyCodes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariom-pareta/MyCodes/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/hariom-pareta/MyCodes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/hariom-pareta/MyCodes/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/hariom-pareta/MyCodes/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/hariom-pareta/MyCodes/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/hariom-pareta/MyCodes/tree/master/2164-two-best-non-overlapping-events) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/hariom-pareta/MyCodes/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hariom-pareta/MyCodes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/hariom-pareta/MyCodes/tree/master/0502-ipo) |
+| [1917-maximum-average-pass-ratio](https://github.com/hariom-pareta/MyCodes/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/hariom-pareta/MyCodes/tree/master/2089-maximum-matrix-sum) |
 ## Sorting
 |  |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/hariom-pareta/MyCodes/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/hariom-pareta/MyCodes/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/hariom-pareta/MyCodes/tree/master/0502-ipo) |
+| [1917-maximum-average-pass-ratio](https://github.com/hariom-pareta/MyCodes/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/hariom-pareta/MyCodes/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hariom-pareta/MyCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hariom-pareta/MyCodes/tree/master/2692-take-gifts-from-the-richest-pile) |
