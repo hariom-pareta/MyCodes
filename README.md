@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/hariom-pareta/MyCodes/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hariom-pareta/MyCodes/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/hariom-pareta/MyCodes/tree/master/0502-ipo) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hariom-pareta/MyCodes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/hariom-pareta/MyCodes/tree/master/0729-my-calendar-i) |
 | [0772-construct-quad-tree](https://github.com/hariom-pareta/MyCodes/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/hariom-pareta/MyCodes/tree/master/0787-sliding-puzzle) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/hariom-pareta/MyCodes/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/hariom-pareta/MyCodes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hariom-pareta/MyCodes/tree/master/0322-coin-change) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hariom-pareta/MyCodes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hariom-pareta/MyCodes/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/hariom-pareta/MyCodes/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/hariom-pareta/MyCodes/tree/master/2164-two-best-non-overlapping-events) |
