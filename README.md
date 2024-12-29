@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/hariom-pareta/MyCodes/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hariom-pareta/MyCodes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariom-pareta/MyCodes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hariom-pareta/MyCodes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/hariom-pareta/MyCodes/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/hariom-pareta/MyCodes/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/hariom-pareta/MyCodes/tree/master/1972-rotating-the-box) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hariom-pareta/MyCodes/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/hariom-pareta/MyCodes/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/hariom-pareta/MyCodes/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hariom-pareta/MyCodes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/hariom-pareta/MyCodes/tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/hariom-pareta/MyCodes/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/hariom-pareta/MyCodes/tree/master/0433-minimum-genetic-mutation) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hariom-pareta/MyCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hariom-pareta/MyCodes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/hariom-pareta/MyCodes/tree/master/2494-sum-of-prefix-scores-of-strings) |
