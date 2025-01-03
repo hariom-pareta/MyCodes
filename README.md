@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/hariom-pareta/MyCodes/tree/master/0502-ipo) |
 | [1917-maximum-average-pass-ratio](https://github.com/hariom-pareta/MyCodes/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/hariom-pareta/MyCodes/tree/master/2089-maximum-matrix-sum) |
+| [2300-construct-string-with-repeat-limit](https://github.com/hariom-pareta/MyCodes/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sorting
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/hariom-pareta/MyCodes/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/hariom-pareta/MyCodes/tree/master/0383-ransom-note) |
+| [2300-construct-string-with-repeat-limit](https://github.com/hariom-pareta/MyCodes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/hariom-pareta/MyCodes/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/hariom-pareta/MyCodes/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Hash Table
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/hariom-pareta/MyCodes/tree/master/0433-minimum-genetic-mutation) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/hariom-pareta/MyCodes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/hariom-pareta/MyCodes/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2300-construct-string-with-repeat-limit](https://github.com/hariom-pareta/MyCodes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hariom-pareta/MyCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hariom-pareta/MyCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2755-extra-characters-in-a-string) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hariom-pareta/MyCodes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hariom-pareta/MyCodes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/hariom-pareta/MyCodes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/hariom-pareta/MyCodes/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/hariom-pareta/MyCodes/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/hariom-pareta/MyCodes/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/hariom-pareta/MyCodes/tree/master/0502-ipo) |
 | [1917-maximum-average-pass-ratio](https://github.com/hariom-pareta/MyCodes/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/hariom-pareta/MyCodes/tree/master/2164-two-best-non-overlapping-events) |
+| [2300-construct-string-with-repeat-limit](https://github.com/hariom-pareta/MyCodes/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/hariom-pareta/MyCodes/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hariom-pareta/MyCodes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/hariom-pareta/MyCodes/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
